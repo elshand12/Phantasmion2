@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 27,
+    "height" : 43
+  }, {
+    "width" : 54,
+    "height" : 85
+  }, {
+    "width" : 108,
+    "height" : 169
+  }, {
+    "width" : 216,
+    "height" : 338
+  }, {
+    "width" : 431,
+    "height" : 676
+  }, {
+    "width" : 861,
+    "height" : 1351
+  } ],
+  "profile" : "level0",
+  "width" : 861,
+  "id" : "https://elshand12.github.io/Phantasmion2/images/phant_cover",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 1351
+}
