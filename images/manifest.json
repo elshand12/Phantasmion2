@@ -9,6 +9,87 @@
     },
     "items": [
         {
+            "id": "https://elshand12.github.io/Phantasmion2/images/phant_bookplate/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "phant_bookplate"
+                ]
+            },
+            "height": 1325,
+            "width": 800,
+            "items": [
+                {
+                    "id": "https://elshand12.github.io/Phantasmion2/images/phant_bookplate/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://elshand12.github.io/Phantasmion2/images/phant_bookplate/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://elshand12.github.io/Phantasmion2/images/phant_bookplate/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 25,
+                                                "height": 42
+                                            },
+                                            {
+                                                "width": 50,
+                                                "height": 83
+                                            },
+                                            {
+                                                "width": 100,
+                                                "height": 166
+                                            },
+                                            {
+                                                "width": 200,
+                                                "height": 332
+                                            },
+                                            {
+                                                "width": 400,
+                                                "height": 663
+                                            },
+                                            {
+                                                "width": 800,
+                                                "height": 1325
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 800,
+                                        "id": "https://elshand12.github.io/Phantasmion2/images/phant_bookplate",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 1325
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://elshand12.github.io/Phantasmion2/images/phant_bookplate/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://elshand12.github.io/Phantasmion2/images/phant_cover/canvas/",
             "type": "Canvas",
             "label": {
@@ -90,26 +171,26 @@
             ]
         },
         {
-            "id": "https://elshand12.github.io/Phantasmion2/images/phant_bookplate/canvas/",
+            "id": "https://elshand12.github.io/Phantasmion2/images/phant_i/canvas/",
             "type": "Canvas",
             "label": {
                 "none": [
-                    "phant_bookplate"
+                    "phant_i"
                 ]
             },
-            "height": 1325,
-            "width": 800,
+            "height": 1300,
+            "width": 775,
             "items": [
                 {
-                    "id": "https://elshand12.github.io/Phantasmion2/images/phant_bookplate/annotation/AnnoPage",
+                    "id": "https://elshand12.github.io/Phantasmion2/images/phant_i/annotation/AnnoPage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://elshand12.github.io/Phantasmion2/images/phant_bookplate/annotation/",
+                            "id": "https://elshand12.github.io/Phantasmion2/images/phant_i/annotation/",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://elshand12.github.io/Phantasmion2/images/phant_bookplate/full/max/0/default.jpg",
+                                "id": "https://elshand12.github.io/Phantasmion2/images/phant_i/full/max/0/default.jpg",
                                 "type": "Image",
                                 "service": [
                                     {
@@ -131,40 +212,40 @@
                                         "sizes": [
                                             {
                                                 "width": 25,
-                                                "height": 42
+                                                "height": 41
                                             },
                                             {
-                                                "width": 50,
-                                                "height": 83
+                                                "width": 49,
+                                                "height": 82
                                             },
                                             {
-                                                "width": 100,
-                                                "height": 166
+                                                "width": 97,
+                                                "height": 163
                                             },
                                             {
-                                                "width": 200,
-                                                "height": 332
+                                                "width": 194,
+                                                "height": 325
                                             },
                                             {
-                                                "width": 400,
-                                                "height": 663
+                                                "width": 388,
+                                                "height": 650
                                             },
                                             {
-                                                "width": 800,
-                                                "height": 1325
+                                                "width": 775,
+                                                "height": 1300
                                             }
                                         ],
                                         "profile": "level0",
-                                        "width": 800,
-                                        "id": "https://elshand12.github.io/Phantasmion2/images/phant_bookplate",
+                                        "width": 775,
+                                        "id": "https://elshand12.github.io/Phantasmion2/images/phant_i",
                                         "type": "ImageService3",
                                         "@context": "http://iiif.io/api/image/3/context.json",
-                                        "height": 1325
+                                        "height": 1300
                                     }
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://elshand12.github.io/Phantasmion2/images/phant_bookplate/canvas/"
+                            "target": "https://elshand12.github.io/Phantasmion2/images/phant_i/canvas/"
                         }
                     ]
                 }
