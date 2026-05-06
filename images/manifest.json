@@ -1467,6 +1467,87 @@
             ]
         },
         {
+            "id": "https://elshand12.github.io/Phantasmion2/images/phant_26/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "phant_26"
+                ]
+            },
+            "height": 1300,
+            "width": 775,
+            "items": [
+                {
+                    "id": "https://elshand12.github.io/Phantasmion2/images/phant_26/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://elshand12.github.io/Phantasmion2/images/phant_26/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://elshand12.github.io/Phantasmion2/images/phant_26/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 25,
+                                                "height": 41
+                                            },
+                                            {
+                                                "width": 49,
+                                                "height": 82
+                                            },
+                                            {
+                                                "width": 97,
+                                                "height": 163
+                                            },
+                                            {
+                                                "width": 194,
+                                                "height": 325
+                                            },
+                                            {
+                                                "width": 388,
+                                                "height": 650
+                                            },
+                                            {
+                                                "width": 775,
+                                                "height": 1300
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 775,
+                                        "id": "https://elshand12.github.io/Phantasmion2/images/phant_26",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 1300
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://elshand12.github.io/Phantasmion2/images/phant_26/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://elshand12.github.io/Phantasmion2/images/phant_27/canvas/",
             "type": "Canvas",
             "label": {
@@ -1542,6 +1623,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://elshand12.github.io/Phantasmion2/images/phant_27/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://elshand12.github.io/Phantasmion2/images/phant_28/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "phant_28"
+                ]
+            },
+            "height": 1300,
+            "width": 775,
+            "items": [
+                {
+                    "id": "https://elshand12.github.io/Phantasmion2/images/phant_28/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://elshand12.github.io/Phantasmion2/images/phant_28/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://elshand12.github.io/Phantasmion2/images/phant_28/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 25,
+                                                "height": 41
+                                            },
+                                            {
+                                                "width": 49,
+                                                "height": 82
+                                            },
+                                            {
+                                                "width": 97,
+                                                "height": 163
+                                            },
+                                            {
+                                                "width": 194,
+                                                "height": 325
+                                            },
+                                            {
+                                                "width": 388,
+                                                "height": 650
+                                            },
+                                            {
+                                                "width": 775,
+                                                "height": 1300
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 775,
+                                        "id": "https://elshand12.github.io/Phantasmion2/images/phant_28",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 1300
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://elshand12.github.io/Phantasmion2/images/phant_28/canvas/"
                         }
                     ]
                 }
@@ -2925,26 +3087,26 @@
             ]
         },
         {
-            "id": "https://elshand12.github.io/Phantasmion2/images/phant_28/canvas/",
+            "id": "https://elshand12.github.io/Phantasmion2/images/phant_30/canvas/",
             "type": "Canvas",
             "label": {
                 "none": [
-                    "phant_28"
+                    "phant_30"
                 ]
             },
             "height": 1300,
             "width": 775,
             "items": [
                 {
-                    "id": "https://elshand12.github.io/Phantasmion2/images/phant_28/annotation/AnnoPage",
+                    "id": "https://elshand12.github.io/Phantasmion2/images/phant_30/annotation/AnnoPage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://elshand12.github.io/Phantasmion2/images/phant_28/annotation/",
+                            "id": "https://elshand12.github.io/Phantasmion2/images/phant_30/annotation/",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://elshand12.github.io/Phantasmion2/images/phant_28/full/max/0/default.jpg",
+                                "id": "https://elshand12.github.io/Phantasmion2/images/phant_30/full/max/0/default.jpg",
                                 "type": "Image",
                                 "service": [
                                     {
@@ -2991,7 +3153,7 @@
                                         ],
                                         "profile": "level0",
                                         "width": 775,
-                                        "id": "https://elshand12.github.io/Phantasmion2/images/phant_28",
+                                        "id": "https://elshand12.github.io/Phantasmion2/images/phant_30",
                                         "type": "ImageService3",
                                         "@context": "http://iiif.io/api/image/3/context.json",
                                         "height": 1300
@@ -2999,33 +3161,33 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://elshand12.github.io/Phantasmion2/images/phant_28/canvas/"
+                            "target": "https://elshand12.github.io/Phantasmion2/images/phant_30/canvas/"
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "https://elshand12.github.io/Phantasmion2/images/phant_26/canvas/",
+            "id": "https://elshand12.github.io/Phantasmion2/images/phant_32/canvas/",
             "type": "Canvas",
             "label": {
                 "none": [
-                    "phant_26"
+                    "phant_32"
                 ]
             },
             "height": 1300,
             "width": 775,
             "items": [
                 {
-                    "id": "https://elshand12.github.io/Phantasmion2/images/phant_26/annotation/AnnoPage",
+                    "id": "https://elshand12.github.io/Phantasmion2/images/phant_32/annotation/AnnoPage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://elshand12.github.io/Phantasmion2/images/phant_26/annotation/",
+                            "id": "https://elshand12.github.io/Phantasmion2/images/phant_32/annotation/",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://elshand12.github.io/Phantasmion2/images/phant_26/full/max/0/default.jpg",
+                                "id": "https://elshand12.github.io/Phantasmion2/images/phant_32/full/max/0/default.jpg",
                                 "type": "Image",
                                 "service": [
                                     {
@@ -3072,7 +3234,7 @@
                                         ],
                                         "profile": "level0",
                                         "width": 775,
-                                        "id": "https://elshand12.github.io/Phantasmion2/images/phant_26",
+                                        "id": "https://elshand12.github.io/Phantasmion2/images/phant_32",
                                         "type": "ImageService3",
                                         "@context": "http://iiif.io/api/image/3/context.json",
                                         "height": 1300
@@ -3080,7 +3242,169 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://elshand12.github.io/Phantasmion2/images/phant_26/canvas/"
+                            "target": "https://elshand12.github.io/Phantasmion2/images/phant_32/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://elshand12.github.io/Phantasmion2/images/phant_29/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "phant_29"
+                ]
+            },
+            "height": 1300,
+            "width": 775,
+            "items": [
+                {
+                    "id": "https://elshand12.github.io/Phantasmion2/images/phant_29/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://elshand12.github.io/Phantasmion2/images/phant_29/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://elshand12.github.io/Phantasmion2/images/phant_29/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 25,
+                                                "height": 41
+                                            },
+                                            {
+                                                "width": 49,
+                                                "height": 82
+                                            },
+                                            {
+                                                "width": 97,
+                                                "height": 163
+                                            },
+                                            {
+                                                "width": 194,
+                                                "height": 325
+                                            },
+                                            {
+                                                "width": 388,
+                                                "height": 650
+                                            },
+                                            {
+                                                "width": 775,
+                                                "height": 1300
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 775,
+                                        "id": "https://elshand12.github.io/Phantasmion2/images/phant_29",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 1300
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://elshand12.github.io/Phantasmion2/images/phant_29/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://elshand12.github.io/Phantasmion2/images/phant_31/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "phant_31"
+                ]
+            },
+            "height": 1300,
+            "width": 775,
+            "items": [
+                {
+                    "id": "https://elshand12.github.io/Phantasmion2/images/phant_31/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://elshand12.github.io/Phantasmion2/images/phant_31/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://elshand12.github.io/Phantasmion2/images/phant_31/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 25,
+                                                "height": 41
+                                            },
+                                            {
+                                                "width": 49,
+                                                "height": 82
+                                            },
+                                            {
+                                                "width": 97,
+                                                "height": 163
+                                            },
+                                            {
+                                                "width": 194,
+                                                "height": 325
+                                            },
+                                            {
+                                                "width": 388,
+                                                "height": 650
+                                            },
+                                            {
+                                                "width": 775,
+                                                "height": 1300
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 775,
+                                        "id": "https://elshand12.github.io/Phantasmion2/images/phant_31",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 1300
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://elshand12.github.io/Phantasmion2/images/phant_31/canvas/"
                         }
                     ]
                 }
